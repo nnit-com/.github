@@ -13,6 +13,7 @@
 - [企业微信指南](wechat.md)
 - [Teams指南](teams.md)
 - [BI指南](BI.md)
+- [大模型应用场景](LLM.md)
 
 
 
